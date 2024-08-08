@@ -1,0 +1,16 @@
+{
+  "name": "news_app",
+  "version": "1.0.0",
+  "description": "This is a simple news website",
+  "source": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "Start" : "parcell --open"
+  },
+  "keywords": [],
+  "author": "Nyenpandi Josephine Holder",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
